@@ -1,4 +1,4 @@
-# rmd somthing wrong with ploting figure and i have a problem with pushing it to repository.
+Somthing wrong with ploting figure and i have a problem with pushing it to repository.
 
 
 
